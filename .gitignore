@@ -1,0 +1,17 @@
+/.idea/
+/.vscode/
+/env/
+/p3/
+/venv/
+__pycache__/
+*.pyc
+*.egg-info/
+/build/
+/dist/
+/.pytest_cache/
+/.tox/
+.coverage
+.coverage.*
+/htmlcov/
+/docs/_build/
+/.mypy_cache/
