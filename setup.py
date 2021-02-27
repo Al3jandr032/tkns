@@ -11,9 +11,9 @@ setup(
     author="Alex Lopez",
     author_email="pedrolop15@hotmail.com",
     description="A token and keys generation utility package",
-    long_description="long_description",
-    # long_description_content_type="text/markdown",
-    # url="https://github.com/furby32/tkns",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/Al3jandr032/tkns",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

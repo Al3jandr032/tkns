@@ -1,0 +1,4 @@
+[run]
+omit =
+    *p3*
+    *env*

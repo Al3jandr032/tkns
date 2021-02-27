@@ -8,6 +8,8 @@ token = tkns.tokenRandom()
 print(token)
 print(type(token))
 
+
 randomString = tkns.randomLetters()
 print(randomString)
-print(type(token))
+print(type(randomString))
+print(len(randomString))
